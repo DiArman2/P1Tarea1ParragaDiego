@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1730253059 source:c:\users\diego\documents\espe\poo\programas antes de entrar\eva1párragadiego\main.cpp
+	<iostream>
+	"Menu.h"
+
+1730333253 c:\users\diego\documents\espe\poo\programas antes de entrar\eva1párragadiego\menu.h
+	<iostream>
+	"Desarrollo.h"
+
+1730386804 c:\users\diego\documents\espe\poo\programas antes de entrar\eva1párragadiego\desarrollo.h
+	<iostream>
+	<fstream>
+
